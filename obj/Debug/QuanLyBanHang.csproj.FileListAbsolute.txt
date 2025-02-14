@@ -1,0 +1,17 @@
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_Login.frmDangNhap.resources
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\hoadon.frmHoaDonKH.resources
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_QLKhachHang.frmThemKHMoi.resources
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_NhanVien.frmThemNhanVien.resources
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form_QLKhachHang.frmDSKH.resources
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThongTinCaNhan.resources
+C:\LTDotNet\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmAdmin.resources
